@@ -17,4 +17,7 @@ This plugin estimates the percentage and the economic damage from flooding for e
 
 Automatic gis based method to estimate the economic damages and percentage of damages caused by floods to buildings in an urban environment, in particular a processing plugin implemented in QGIS (Free and Open Source Geographic Information System) that allow a detailed and rapid estimation of the percentage and the economic damage to buildings of a specific urban area. 
 The methodology follows the steps of the flood risk assessment and start from two input maps: one an official map that represent building exposed to a specific scenario and one a flood map from hydraulic simulations that well represent the flood depth reached by the water in every point. 
-In fact, depending of the type of the floods map available, it is proposed a methodology to associate the flood depth with every buildings of the area of interest usinga flood map obtained by hydraulic simulations that show the water flux around the buildings, taking into account their presence.
+In fact, it is proposed a methodology to associate the flood depth with every buildings of the area of interest using a flood map obtained by hydraulic simulations that show the water flux around the buildings, taking into account their presence.
+For the evaluation of the flood damage the JRC vulnerability curves was used, that permit to asses the maximum direct tangible physical damage values to 6 impact categories. 
+These curves are representatives of average European building behaviour.
+
