@@ -11,7 +11,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this program.  If not, see https://www.gnu.org/licenses/.
-If you need to contact us: stefania.viaggio at edu.unige.it, rossella.bovolenta at unige.it, bianca.federici at unige.it
+If you need to contact us: ilaria.ferrando at edu.unige.it, silvia.deangeli at unige.it, bianca.federici at unige.it
 
 This plugin estimates the percentage and the economic damage from flooding for each residential, commercial, industrial and transport building in a given area of interest, through the use of guidelines and Joint Research Centre's vulnerability curves.
 
@@ -22,4 +22,6 @@ For the evaluation of the flood damage the JRC vulnerability curves was used, th
 These curves are representatives of average European building behaviour.
 
 The document uploaded:
-.model3 - Model in which all the inputs and algorithms necessary for the execution of the methodology that characterizes the plugin are inserted;
+Buildings_damages.model3 - Model in which all the inputs and algorithms necessary for the execution of the methodology that characterizes the plugin are inserted;
+"Buildings_damage_flux_around_buildings__flood_map" folder : folder upoadable in QGIS to the creation of a new processing pluging (from ZIP), that contain the algorithm of the script and the metadata;
+GiuliaMazzaccaro_thesis.pdf : for detailed information about the procedure performed.
