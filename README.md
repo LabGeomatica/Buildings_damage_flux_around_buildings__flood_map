@@ -1,8 +1,11 @@
 # Buildings_damage_flux_around_buildings_flood_map
 
 Program name: Buildings damage - Flood map simulating flux around buildings
+
 Created on Fri Dec  9 2022
+
 @authors: Prof Giorgio Boni, Prof Silvia De Angeli, Prof Bianca Federici, Giulia Mazzaccaro
+
 Giulia was student at the University of Genova, developping the program for Environmental Engineering master course thesis
 
 (C) 2022 by Boni, De Angeli, Federici, Mazzaccaro - University of Genova'
