@@ -21,3 +21,5 @@ In fact, it is proposed a methodology to associate the flood depth with every bu
 For the evaluation of the flood damage the JRC vulnerability curves was used, that permit to asses the maximum direct tangible physical damage values to 6 impact categories. 
 These curves are representatives of average European building behaviour.
 
+The document uploaded:
+.model3 - Model in which all the inputs and algorithms necessary for the execution of the methodology that characterizes the plugin are inserted;
