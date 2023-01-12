@@ -6,6 +6,7 @@ Created on Fri Dec  9 2022
 Giulia was student at the University of Genova, developping the program for Environmental Engineering master course thesis
 
 (C) 2022 by Boni, De Angeli, Federici, Mazzaccaro - University of Genova'
+
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 See the GNU General Public License for more details.
