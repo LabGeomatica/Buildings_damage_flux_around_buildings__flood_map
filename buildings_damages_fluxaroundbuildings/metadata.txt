@@ -12,8 +12,8 @@ email=giulia.mazzaccaro@gmail.com
 
 about=This plugin estimates the percentage and the economic damage from flooding for each residential, commercial, industrial and transport building in a given area of interest, through the use of guidelines and Joint Research Centre's vulnerability curves.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/LabGeomatica/Buildings_damage_flux_around_buildings__flood_map/issues
+repository=https://github.com/LabGeomatica/Buildings_damage_flux_around_buildings__flood_map
 # End of mandatory metadata
 
 # Recommended items:
