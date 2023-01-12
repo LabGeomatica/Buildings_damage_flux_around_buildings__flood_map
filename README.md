@@ -25,6 +25,9 @@ For the evaluation of the flood damage the JRC vulnerability curves was used, th
 These curves are representatives of average European building behaviour.
 
 The document uploaded:
+
 Buildings_damages.model3 - Model in which all the inputs and algorithms necessary for the execution of the methodology that characterizes the plugin are inserted;
+
 "Buildings_damage_flux_around_buildings__flood_map" folder : folder upoadable in QGIS to the creation of a new processing pluging (from ZIP), that contain the algorithm of the script and the metadata;
+
 GiuliaMazzaccaro_thesis.pdf : for detailed information about the procedure performed.
